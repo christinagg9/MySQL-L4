@@ -1,2 +1,2 @@
 # MySQL-L4
-Mission 4: Games Revenue 
+M4: Games Revenue 
